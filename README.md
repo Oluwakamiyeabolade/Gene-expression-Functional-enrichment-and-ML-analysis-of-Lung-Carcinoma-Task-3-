@@ -35,15 +35,16 @@ Data Preparation:
 
 High-variance genes were selected to reduce the feature space and improve model performance. The dataset was split into training and testing sets. The KNN model and Random Forest classifier were trained on the selected features with cross-validation; an accuracy of 75% and 100%, respectively, was achieved on the data testing. The models correctly classified most samples as either tumors or normal.
 
-Results
+**Results**
+
 Figure 1 shows significant upregulation and downregulation in tumor tissue compared to normal tissue.
 ![image](https://github.com/user-attachments/assets/6d9537f2-469e-4285-9a96-d5727a71c21a)
-image Figure 1: Heatmap of Differentially Expressed Genes
+Figure 1: Heatmap of Differentially Expressed Genes
 
 Figure 2 shows genes expressed in tumor tissue compared to normal tissue  
 
 ![image](https://github.com/user-attachments/assets/0501b96e-c018-466e-84e6-ff01175b2a87)
-luadvolplot Figure 2: Volcano plots of differentially expressed genes
+Figure 2: Volcano plots of differentially expressed genes
 
 Figure 3&4 are the results of the functional enrichment analysis, which revealed key important pathways that are implicated by the upregulated and downregulated genes, with the top four significant pathways highlighted.
 Upregulated
@@ -60,8 +61,7 @@ Figure 4: Enrichment analysis of downregulated genes
 
 Figure 5&6 shows the KEGG enrichment analysis results. The size of the dot correlatse to the degree of impact. The interaction and impact of some of the implicated pathways have been reported in several literatures (Zhang et al., 2023; Gao et al., 2024).
 
-upkegg
-
+![image](https://github.com/user-attachments/assets/b1f2484c-d5dc-46c8-878a-5fee99ce509c)
 Figure 5: KEGG enrichment analysis of upregulated genes
 
 upkegg
