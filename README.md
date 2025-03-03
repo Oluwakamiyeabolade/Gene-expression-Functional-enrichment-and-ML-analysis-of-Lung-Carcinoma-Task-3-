@@ -40,6 +40,7 @@ Results
 
 Figure 1 shows significant upregulation and downregulation in tumor tissue compared to normal tissue.
 
+![image](https://github.com/user-attachments/assets/0501b96e-c018-466e-84e6-ff01175b2a87)
 image Figure 1: Heatmap of Differentially Expressed Genes
 
 Figure 2 shows genes expressed in tumor tissue compared to normal tissue  
