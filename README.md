@@ -36,6 +36,7 @@ Data Preparation:
 High-variance genes were selected to reduce the feature space and improve model performance. The dataset was split into training and testing sets. The KNN model and Random Forest classifier were trained on the selected features with cross-validation; an accuracy of 75% and 100%, respectively, was achieved on the data testing. The models correctly classified most samples as either tumors or normal.
 
 Results
+![image](https://github.com/user-attachments/assets/6d9537f2-469e-4285-9a96-d5727a71c21a)
 
 Figure 1 shows significant upregulation and downregulation in tumor tissue compared to normal tissue.
 
