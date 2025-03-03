@@ -63,28 +63,35 @@ Figure 4: Enrichment analysis of downregulated genes
 
 Figure 5&6 shows the KEGG enrichment analysis results. The size of the dot correlatse to the degree of impact. The interaction and impact of some of the implicated pathways have been reported in several literatures (Zhang et al., 2023; Gao et al., 2024).
 
+
 ![image](https://github.com/user-attachments/assets/b1f2484c-d5dc-46c8-878a-5fee99ce509c)
 Figure 5: KEGG enrichment analysis of upregulated genes
+
 
 ![image](https://github.com/user-attachments/assets/70926db9-9d90-45fb-932b-33b285ac2c8c)
 Figure 6: KEGG enrichment analysis of downregulated genes
 
 
 ![image](https://github.com/user-attachments/assets/99283893-1446-4552-baa2-e27c1f2cb809)
+
 Figure 7: ROC Curve of knn ML model
 
 ![image](https://github.com/user-attachments/assets/0a7967c1-8ee6-4b70-9499-6611590e039d)
+
 Figure 8: Confusion matrix of knn ML model
 
 ![image](https://github.com/user-attachments/assets/62ebe827-34d7-4482-9d99-883037a14764)
+
 Figure 9: ROC Curve of Random forest ML model
 
 
 ![image](https://github.com/user-attachments/assets/f9103494-138a-4c78-a01d-e11cd5eb7f77)
+
 Figure 10: Confusion matrix of Random forest ML model
 
 
 ![image](https://github.com/user-attachments/assets/d696b82f-8360-4886-b4d8-823ab43bbfda)
+
 Figure 11: model accuracy comparisons of knn and Rf models
 
 Conclusion
