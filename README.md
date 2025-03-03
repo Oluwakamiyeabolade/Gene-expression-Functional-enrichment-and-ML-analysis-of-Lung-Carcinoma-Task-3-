@@ -65,10 +65,12 @@ Figure 5&6 shows the KEGG enrichment analysis results. The size of the dot corre
 
 
 ![image](https://github.com/user-attachments/assets/b1f2484c-d5dc-46c8-878a-5fee99ce509c)
+
 Figure 5: KEGG enrichment analysis of upregulated genes
 
 
 ![image](https://github.com/user-attachments/assets/70926db9-9d90-45fb-932b-33b285ac2c8c)
+
 Figure 6: KEGG enrichment analysis of downregulated genes
 
 
