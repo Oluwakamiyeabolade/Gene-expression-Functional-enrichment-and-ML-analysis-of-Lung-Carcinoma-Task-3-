@@ -46,22 +46,17 @@ Figure 2 shows genes expressed in tumor tissue compared to normal tissue
 luadvolplot Figure 2: Volcano plots of differentially expressed genes
 
 Figure 3&4 are the results of the functional enrichment analysis, which revealed key important pathways that are implicated by the upregulated and downregulated genes, with the top four significant pathways highlighted.
-![image](https://github.com/user-attachments/assets/18a3a30e-8c56-433c-a414-a3c6a488fa78)
-
-
-
-
-
-
-
 Upregulated
-![image](https://github.com/user-attachments/assets/cdb90589-c480-45f1-858e-c05f1bd2eb4a)
 
+![image](https://github.com/user-attachments/assets/18a3a30e-8c56-433c-a414-a3c6a488fa78)
 Figure 3: Enrichment analysis of upregulated genes
 
 downregulated
 
+![image](https://github.com/user-attachments/assets/cdb90589-c480-45f1-858e-c05f1bd2eb4a)
+
 Figure 4: Enrichment analysis of downregulated genes
+
 
 Figure 5&6 shows the KEGG enrichment analysis results. The size of the dot correlatse to the degree of impact. The interaction and impact of some of the implicated pathways have been reported in several literatures (Zhang et al., 2023; Gao et al., 2024).
 
