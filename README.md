@@ -43,6 +43,8 @@ Figure 1 shows significant upregulation and downregulation in tumor tissue compa
 ![image](https://github.com/user-attachments/assets/0501b96e-c018-466e-84e6-ff01175b2a87)
 image Figure 1: Heatmap of Differentially Expressed Genes
 
+![image](https://github.com/user-attachments/assets/18a3a30e-8c56-433c-a414-a3c6a488fa78)
+
 Figure 2 shows genes expressed in tumor tissue compared to normal tissue  
 
 luadvolplot Figure 2: Volcano plots of differentially expressed genes
